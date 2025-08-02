@@ -49,6 +49,9 @@ DOMAIN-SUFFIX,xiaoyi.one
 # DegYaxEmby
 DOMAIN-SUFFIX,e.degyax.one
 
+# Doubon
+DOMAIN-SUFFIX,114514.quest
+
 ##### E #####
 
 # Exflux
@@ -346,6 +349,9 @@ DOMAIN-SUFFIX,emby.run
 DOMAIN-SUFFIX,staryuki.com
 DOMAIN-SUFFIX,zabc.net
 
+# ShrekPublic
+DOMAIN-SUFFIX,shrekmedia.org
+
 ##### T #####
 
 # 探花TV(Jellyfin Porn)
@@ -369,6 +375,9 @@ DOMAIN-SUFFIX,texon.fans
 
 # 桃子
 DOMAIN-SUFFIX,embymv.link
+
+# Theluyuan
+DOMAIN-SUFFIX,theluyuan.com
 
 ##### U #####
 
