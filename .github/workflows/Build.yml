@@ -190,7 +190,6 @@ jobs:
                 "AdGuardChinese.list https://raw.githubusercontent.com/geekdada/surge-list/master/domain-set/chinese-filter.txt"
                 # 自定义规则
                 "Crypto.list https://raw.githubusercontent.com/Repcz/Tool/X/Surge/Custom/Crypto.list"
-                "Direct.list https://raw.githubusercontent.com/Repcz/Tool/X/Surge/Custom/Direct.list"
                 "Emby.list https://raw.githubusercontent.com/Repcz/Tool/X/Surge/Custom/Emby.list"
                 "Lan.list https://raw.githubusercontent.com/Repcz/Tool/X/Surge/Custom/Lan.list"
                 "Porn.list https://raw.githubusercontent.com/Repcz/Tool/X/Surge/Custom/Porn.list"
