@@ -49,5 +49,3 @@ rules:
   - GEOIP,cn,DIRECT
 
   - MATCH,Proxy
-
-
