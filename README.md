@@ -3,9 +3,6 @@
 > [!Caution]
 > 禁止任何形式的转载或发布至国内平台
 
-> [!WARNING]
-> 禁止 FORK
-
 ## 免责申明
 
 > [!IMPORTANT]
